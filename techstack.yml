@@ -2,7 +2,7 @@ repo_name: piranna/fastify-crud-generator
 report_id: 614e5fd149bd2e6644d225d96a92b8b1
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T06:16:44+00:00'
+timestamp: '2024-01-05T08:15:00+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/fastify-crud-generator
   detection_source: Repo Metadata
 - name: Fastify
   description: Fast and low overhead web framework, for Node.js
@@ -40,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/piranna/fastify-crud-generator/blob/master/package.json
   detection_source: package.json
   last_updated_by: Emanuele Bertoldi
   last_updated_on: 2020-08-14 22:38:16.000000000 Z
@@ -51,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/fastify-crud-generator
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -60,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/piranna/fastify-crud-generator/blob/master/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Emanuele Bertoldi
   last_updated_on: 2021-05-11 13:11:09.000000000 Z
@@ -71,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/piranna/fastify-crud-generator/blob/master/package.json
   detection_source: package.json
   last_updated_by: Emanuele Bertoldi
   last_updated_on: 2020-08-14 22:38:16.000000000 Z
